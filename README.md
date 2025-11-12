@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm <b>K. Vilohit</b> 👋</h1>
+<h1 align="center">Hey, I'm <b>K  Vilohit</b> 👋</h1>
 <h3 align="center">Full-Stack Developer • AI & ML Engineer • LLMs • GANs • RAG</h3>
 
 <p align="center">

@@ -64,10 +64,6 @@
 </p>
 
 
-<!-- Trophies (fun) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vilohit0135&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
-</p>
 
 
 ## 🔭 Current Focus

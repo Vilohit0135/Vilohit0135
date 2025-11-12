@@ -50,15 +50,19 @@
 ## 📊 GitHub Dashboard
 
 <!-- Stats cards -->
+## 📊 GitHub Dashboard
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vilohit0135&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vilohit0135&layout=compact&theme=radical&langs_count=8" />
 </p>
 
-<!-- Streak (note: must have public contributions) -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vilohit0135&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Vilohit0135&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Vilohit0135&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </p>
+
 
 <!-- Trophies (fun) -->
 <p align="center">

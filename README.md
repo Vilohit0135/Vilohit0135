@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./vilohit_github_banner.png" alt="K. Vilohit — Full-Stack Dev & AI/ML" width="100%" />
-</p>
 
 <h1 align="center">Hey, I'm <b>K. Vilohit</b> 👋</h1>
 <h3 align="center">Full-Stack Developer • AI & ML Engineer • LLMs • GANs • RAG</h3>
@@ -69,8 +65,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vilohit0135&theme=radical&no-bg=true&no-frame=true&row=1&column=6" />
 </p>
 
-<!-- Wavy break -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🔭 Current Focus
 - Fine-tuned **LLMs** for specialized domains (tools, evals, guardrails)
